@@ -107,7 +107,7 @@ body {
   gap: 1.5rem;
   align-items: center;
   max-width: 800px;
-  margin: -2rem auto 4rem; /* slight overlap with hero */
+  margin: -2rem auto 4rem; 
   padding: 0 1.5rem;
 }
 
